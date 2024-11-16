@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "dependencies": {
+        "akash-word-counter": "^1.0.3"
+    }
+}
